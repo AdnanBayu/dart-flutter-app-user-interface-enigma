@@ -1,6 +1,10 @@
-# enigma_app
+# dart-flutter-app-user-interface-enigma
 
-dart-flutter-app-user-interface-enigma
+This app developed using dart language +flutter framework.
+
+To run this app, go to lib file and run the main.dart in debug mode (in VS Code don't forget to set the command pallete/emulator)
+
+IMPORTANT: This app isn't copyright free, it includes some image/asset i found on internet.
 
 ## Getting Started
 
