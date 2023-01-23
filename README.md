@@ -1,6 +1,6 @@
 # enigma_app
 
-A new Flutter project.
+dart-flutter-app-user-interface-enigma
 
 ## Getting Started
 
