@@ -19,8 +19,13 @@ homepage:
 second page:
 
 
+![preview2](https://user-images.githubusercontent.com/104254722/217336118-a71bf52c-5c4a-4394-9bc5-dbe3ef428cf6.png)
+
 
 third page
+
+
+![preview3](https://user-images.githubusercontent.com/104254722/217336198-ed9bcefa-0ab1-49cc-ad6f-2ece68c04e9f.png)
 
 
 ## Getting Started
