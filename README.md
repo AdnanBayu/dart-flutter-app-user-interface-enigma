@@ -8,6 +8,21 @@ To run this app, go to lib file and run the main.dart in debug mode (in VS Code 
 
 IMPORTANT: This app isn't copyright free, it includes some image/asset i found on internet.
 
+# Preview
+
+homepage:
+
+
+![preview1](https://user-images.githubusercontent.com/104254722/217335432-9e19db6b-7217-41fb-ba62-5ca6eb901d0d.png)
+
+
+second page:
+
+
+
+third page
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
